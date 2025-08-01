@@ -8,7 +8,7 @@
 
 ---
 
-### 💖 Tecnologias que uso e estou aprendendo:
+###  Tecnologias que uso e estou aprendendo:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-f6c3d4?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-e8a9c3?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +21,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffaec9&icon_color=ffaec9&text_color=fceff9&bg_color=fff0f5"/>
@@ -30,10 +30,10 @@
 
 ---
 
-### 📬 Contato
+###  Contato
 
-📧 eduarda.oliveira.ti@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/eduarda-rodrigues-oliveira-84531219a/)  
-💻 Portfólio: *em construção...*
+ eduarda.oliveira.ti@gmail.com  
+ [LinkedIn](https://www.linkedin.com/in/eduarda-rodrigues-oliveira-84531219a/)  
+ Portfólio: *em construção...*
 
 
