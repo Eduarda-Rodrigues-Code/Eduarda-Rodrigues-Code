@@ -34,6 +34,6 @@
 
 📧 eduarda.oliveira.ti@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/eduarda-rodrigues-oliveira-84531219a/)  
-💻 Portfólio: *em construção... com muito carinho e código rosa*
+💻 Portfólio: *em construção...*
 
 
