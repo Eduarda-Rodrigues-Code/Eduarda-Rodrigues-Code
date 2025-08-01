@@ -1,9 +1,9 @@
-<h1 align="center" style="color:#D8A7B1;">Oi, eu sou a Eduarda Rodrigues Oliveira 💻🌸</h1>
+<h1 align="center" style="color:#D8A7B1;">Oi, eu sou a Eduarda Rodrigues Oliveira 🌸</h1>
 
 <p align="center">
-  💻 Desenvolvedora Front-End apaixonada por interfaces bonitas e funcionais<br>
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
-  ✨ Criando com código e um toque de criatividade rosa rosé<br>
+  Desenvolvedora Front-End apaixonada por interfaces bonitas e funcionais<br>
+  Estudante de Análise e Desenvolvimento de Sistemas<br>
+ br>
 </p>
 
 ---
@@ -30,10 +30,8 @@
 
 ### 📬 Contato
 
-📧 eduarda.oliveira.dev@gmail.com  
+📧 eduarda.oliveira.ti@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/eduarda-rodrigues-oliveira-84531219a/)  
 💻 Portfólio: *em construção... com muito carinho e código rosa*
 
----
 
-<p align="center"><i>“Código bonito é bom, mas código rosa é melhor ainda.” 🌸</i></p>
