@@ -16,6 +16,8 @@
 ![React](https://img.shields.io/badge/-React-f3aec7?style=for-the-badge&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f0a6ca?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-e4bad4?style=for-the-badge&logo=github&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-e0a3c2?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-d88fb6?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
