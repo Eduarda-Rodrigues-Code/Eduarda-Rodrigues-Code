@@ -1,9 +1,9 @@
-<h1 align="center" style="color:#D8A7B1;">Oi, eu sou a Eduarda Rodrigues Oliveira 🌸</h1>
+<h1 align="center" style="color:#D8A7B1;">Olá, me chamo Eduarda!</h1>
 
 <p align="center">
-  Desenvolvedora Front-End apaixonada por interfaces bonitas e funcionais<br>
-  Estudante de Análise e Desenvolvimento de Sistemas<br>
- br>
+  Desenvolvedora Front-End<br>
+  Estudante de Análise e Desenvolvimento de Sistemas - 2º Semestre<br>
+ <br>
 </p>
 
 ---
